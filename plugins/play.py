@@ -253,8 +253,8 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("• sᴜᴘᴘᴏʀᴛ •", url="t.me/teamDlt"),
-                    InlineKeyboardButton("• ᴜᴘᴅᴀᴛᴇs •", url="t.me/teamDlt_update"),
+                    InlineKeyboardButton("• sᴜᴘᴘᴏʀᴛ •", url="t.me/Suzune_Support"),
+                    InlineKeyboardButton("• ᴜᴘᴅᴀᴛᴇs •", url="t.me/SuzuneSupport"),
                 ],
                 [
                     InlineKeyboardButton("• ʏᴏᴜᴛᴜʙᴇ •", url=f"{url}"),
@@ -295,8 +295,8 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
                 [
                     [
-                    InlineKeyboardButton("• sᴜᴘᴘᴏʀᴛ •", url="t.me/teamDlt"),
-                    InlineKeyboardButton("• ᴜᴘᴅᴀᴛᴇs •", url="t.me/teamDlt_update"),
+                    InlineKeyboardButton("• sᴜᴘᴘᴏʀᴛ •", url="t.me/Suzune_Support"),
+                    InlineKeyboardButton("• ᴜᴘᴅᴀᴛᴇs •", url="t.me/SuzuneSuperbot"),
                 ],
                 [
                     InlineKeyboardButton("• ʏᴏᴜᴛᴜʙᴇ •", url=f"{url}"),
@@ -308,7 +308,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://te.legra.ph/file/b1dbbb93b3f7f8049105e.jpg"
+            thumb_name = "https://telegra.ph/file/bf8b2dc1ad4164532cabf.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -362,8 +362,8 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                  [
-                    InlineKeyboardButton("• sᴜᴘᴘᴏʀᴛ •", url="t.me/teamDlt"),
-                    InlineKeyboardButton("• ᴜᴘᴅᴀᴛᴇs •", url="t.me/teamDlt_update"),
+                    InlineKeyboardButton("• sᴜᴘᴘᴏʀᴛ •", url="t.me/Suzune_Support"),
+                    InlineKeyboardButton("• ᴜᴘᴅᴀᴛᴇs •", url="t.me/SuzuneSuperbot"),
                 ],
                 [
                     InlineKeyboardButton("• ʏᴏᴜᴛᴜʙᴇ •", url=f"{url}"),
