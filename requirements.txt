@@ -3,7 +3,7 @@ TgCrypto
 py-tgcalls
 python-dotenv
 yt_dlp
-youtube_dl
+git+https://github.com/HellBoy-OP/yt-fork
 youtube_search_python==1.4.6
 requests
 aiohttp
